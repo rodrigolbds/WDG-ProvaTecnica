@@ -1,0 +1,6 @@
+C:\Users\rodrigo-barreto\Desktop\Problemas c#\Problemas\INSS\bin\Debug\INSS.dll
+C:\Users\rodrigo-barreto\Desktop\Problemas c#\Problemas\INSS\bin\Debug\INSS.pdb
+C:\Users\rodrigo-barreto\Desktop\Problemas c#\Problemas\INSS\obj\Debug\INSS.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo-barreto\Desktop\Problemas c#\Problemas\INSS\obj\Debug\INSS.dll
+C:\Users\rodrigo-barreto\Desktop\Problemas c#\Problemas\INSS\obj\Debug\INSS.pdb
+C:\Users\rodrigo-barreto\Desktop\Problemas c#\Problemas\INSS\obj\Debug\INSS.csprojAssemblyReference.cache
